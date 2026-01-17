@@ -1,6 +1,8 @@
 The _Advanced Colonies_ modpack is built around _MineColonies_, while trying to
 provide a well-integrated variety of technology, magic, nature, and transportation mods.
 
+**This guide is VERY MUCH a work in progress, it probably has mistakes!**
+
 You can view the map at [map.canine.systems](https://map.canine.systems/).
 
 
