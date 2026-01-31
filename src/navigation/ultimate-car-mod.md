@@ -1,5 +1,7 @@
 # Ultimate Car Mod
 
+For cars and trucks, we have [Ultimate Car Mod](https://modrinth.com/mod/ultimate-car-mod).
+
 ## Basics
 
 Car go vroom. Car go more vroom on road (I think).
