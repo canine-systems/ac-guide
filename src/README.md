@@ -18,7 +18,7 @@ If you don't haven't joined before, this is how to set it up:
 7. When it asks to restart Minecraft, click "Yes, close the game"
 8. Launch Minecraft and connect again
 
-There is a YouTube video of what steps 3-8 looks like: https://www.youtube.com/watch?v=RtXHjBzdpQ4
+There is also [a YouTube video](https://www.youtube.com/watch?v=RtXHjBzdpQ4) showing steps 3 through 8.
 
 (Video is slightly outdated, I'll make a new one soon.)
 
