@@ -13,4 +13,5 @@
 - [MineColonies](minecolonies/README.md)
 - [Technology](technology.md)
 - [Magic](magic/README.md)
+    - [Ars Nouveau](magic/ars-nouveau/README.md)
 - [Food &amp; Farm](food-and-farm.md)
