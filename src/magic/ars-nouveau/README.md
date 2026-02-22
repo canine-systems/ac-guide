@@ -109,9 +109,9 @@ More **complicated spells** need to take in account that multiple of the same ef
 
 ![][image6]
 
-[image1]: <ars-images/image1.png>
-[image2]: <ars-images/image2.png>
-[image3]: <ars-images/image3.png>
-[image4]: <ars-images/image4.png>
-[image5]: <ars-images/image5.png>
-[image6]: <ars-images/image6.png>
+[image1]: <images/image1.png>
+[image2]: <images/image2.png>
+[image3]: <images/image3.png>
+[image4]: <images/image4.png>
+[image5]: <images/image5.png>
+[image6]: <images/image6.png>
