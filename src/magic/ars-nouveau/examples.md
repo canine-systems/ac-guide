@@ -6,7 +6,7 @@
 
 This makes a digging spell that will hit anything that can be effected by Iron Level tools in a 3x3 pattern centered on where the projectile lands.
 
-![][image4]
+![](images/spell-dig.png)
 
 ## Shock
 
@@ -14,7 +14,7 @@ This makes a digging spell that will hit anything that can be effected by Iron L
 
 A fast projectile that hits a target with an electric spark at 3x power!
 
-![][image5]
+![](images/spell-spark.png)
 
 ## Thor's Rage
 
@@ -24,8 +24,4 @@ More **complicated spells** need to take in account that multiple of the same ef
 
 Fast THREE projectiles that hits targets with a stronger spark and shocked debuff while then giving discharging more electricity damage and spreading the shocked effect to nearby enemies then striking the ground with lightning at each projectile - all happens in just a matter of a second.
 
-![][image6]
-
-[image4]: <images/image4.png>
-[image5]: <images/image5.png>
-[image6]: <images/image6.png>
+![](images/spell-thors-rage.png)

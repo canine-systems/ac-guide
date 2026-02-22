@@ -20,8 +20,11 @@
     * **Water**: water bucket, snow block, kelp
 * It is important to note, the Imbuement Chamber does **NOT** consume items. They’re more like foci so it’s recommended to just have a  chest for those focal items so it’s easier to swap \- or if you got the space and feel like it, have multiple setups for each.
 * Source can be used to speed up the processing of the chamber and a few late tier items require source.
-* All pedestals with focal items and source jars need to be in 1 block of the chamber but it can be from any side or diagonal. **Example:** This image is a setup where 3 Imbuement Chambers can use the same 3 platforms to make Earth Essence. This setup also lets all 3 use the same jar of source.
-![][image1]
+* All pedestals with focal items and source jars need to be in 1 block of the chamber but it can be from any side or diagonal.
+
+**Example:** This image is a setup where 3 Imbuement Chambers can use the same 3 platforms to make Earth Essence. This setup also lets all 3 use the same jar of source.
+
+![](images/example-imbuement-chamber.png)
 
 ## SourceLinks
 
@@ -34,7 +37,7 @@ But there are a multitude of others that, depending on your automation, could al
 
 Example of a **Mycelial SourceLink** set up with Sophisticated Storage:
 
-![][image2]
+![](images/example-mycelial-sourcelink.png)
 
 ## Enchanted Apparatus
 
@@ -46,9 +49,5 @@ This block is set on top of an **Arcane Core** as a 2 block structure for magica
 * The pedestals and jars within 3 blocks of the Apparatus to work and the items need to all be on the pedestals (order doesn’t matter) before placing the item to transform inside the Apparatus.
 
 Example of my personal preferred setup to save space and easier item placement:
-![][image3]
 
-
-[image1]: <images/image1.png>
-[image2]: <images/image2.png>
-[image3]: <images/image3.png>
+![](images/example-enchanted-apparatus.png)
