@@ -1,24 +1,9 @@
 # Magic
 
-## Ars Nouveau
+We have the following magic-related mods:
 
-- <https://modrinth.com/mod/ars-nouveau>
-- Ars Creo
-- Ars Elemental
-- Ars Nouveau's Flavors & Delight
-- Ars Polymorphia
-- Ars Énergistique
+* [Ars Nouveau](ars-nouveau)
+* [Iron's Spells 'n Spellbooks](irons-spells-n-spellbooks)
+* [Reliquary Reincarnations](reliquary-reincarnations)
 
-## Iron's Spells 'n Spellbooks
-
-- <https://modrinth.com/mod/irons-spells-n-spellbooks>
-- Iron's Spells' Recipe Additions
-
-## Reliquary Reincarnations
-
-- <https://modrinth.com/mod/reliquary-reincarnations>
-- Reliquified Ars Nouveau
-
-## Enchanting Infuser
-
-Enchanting Infusers let you _choose_ what enchantments you want to apply.
+In addition, we added _Enchanting Infuser_, which lets you choose which enchantments to apply.
