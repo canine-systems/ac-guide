@@ -2,7 +2,7 @@
 
 For tech, our modpack is built around:
 
-- Applied Energistics (applied-energistics)
+- [Applied Energistics](#applied-energistics)
 - [Create](#create)
 - [Immersive Engineering](#immersive-engineering)
 - [ComputerCraft](#computercraft)
