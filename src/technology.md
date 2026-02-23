@@ -2,7 +2,7 @@
 
 For tech, our modpack is built around:
 
-- [Applied Energistics](#applied-energistics)
+- Applied Energistics (applied-energistics)
 - [Create](#create)
 - [Immersive Engineering](#immersive-engineering)
 - [ComputerCraft](#computercraft)
@@ -17,6 +17,10 @@ See [the Applied Energistics 2 guide](https://appliedenergistics.org/guides).
 ## Create
 
 The [Create fandom wiki](https://create.fandom.com/wiki/Getting_started) has some information.
+
+The kudos14 YouTube channel has some good introduction videos:
+- [MINECRAFT CREATE MOD, FOR DUMMIES | lesson 1](https://www.youtube.com/watch?v=aYCi6Cn6qp0)
+- [MINECRAFT CREATE MOD, FOR DUMMIES | lesson 2](https://www.youtube.com/watch?v=fu4TbCOjKrI)
 
 We included [_Create Crafts & Additions_](https://modrinth.com/mod/createaddition) so Create can bridge between electricity and kinetic energy,.
 which lets you use Create to power other tech mods.
