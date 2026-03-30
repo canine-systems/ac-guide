@@ -3,7 +3,8 @@ provide a well-integrated variety of technology, magic, nature, and transportati
 
 **This guide is VERY MUCH a work in progress, it probably has mistakes!**
 
-You can view the map at [map.canine.systems](https://map.canine.systems/).
+- **Map:** [map.canine.systems](https://map.canine.systems/)
+- **Deathwatch:** [deaths.canine.systems](https://deaths.canine.systems/)
 
 ## Getting Started
 
