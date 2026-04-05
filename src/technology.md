@@ -29,7 +29,7 @@ There is integration between Create and the following mods:
 - [Create: Stock Bridge](https://modrinth.com/mod/create-stock-bridge): connect the Create Stock network to Applied Energistics 2.
 - [Create: Ender Storage](https://www.curseforge.com/minecraft/mc-mods/create-ender-storage): connect Chets and Tanks from _Ender Storage_ to Create contraptions.
 - [Create: Slice &amp; Dice](https://modrinth.com/mod/slice-and-dice): automate _Farmer's Delight_ recipes.
-- [Ars Creo](https://modrinth.com/mod/ars-creo): add items that integrate with _Ars Nouveau_.
+- [Ars Creo](https://www.curseforge.com/minecraft/mc-mods/ars-creo): add items that integrate with _Ars Nouveau_.
 - [Create: Sophisticated Backpacks Compat](https://modrinth.com/mod/create-sophisticated-backpacks-compat): use Create machines to make _Sophisticated Backpacks_ items.
 - [Create: Wizardry](https://modrinth.com/mod/create-wizardry): automations for all inks and various essences from _Iron's Spells 'n Spellbooks_.
 - [Sophisticated Backpacks Create Integration](https://modrinth.com/mod/sophisticated-backpacks-create-integration): use Backpacks from Sophisticated Backpacks on Create contraptions.
@@ -40,7 +40,7 @@ We also added the folllowing Create-related mods:
 - [Create: Copycats+](https://modrinth.com/mod/copycats)
 - [Create: Crafts &amp; Additions](https://modrinth.com/mod/createaddition), to convert between kinetic (SU) energy and electric (RF/FE) energy.
 - [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry), for automating enchanting
-- [Create: Escalated](https://modrinth.com/mod/escalated), to add escalators
+- [Create: Escalated](https://www.curseforge.com/minecraft/mc-mods/create-escalated), to add escalators
 - [Create: Hypertubes](https://modrinth.com/mod/hypertube), so you can pretend this is Satisfactory
 - [Create: Metalwork](https://modrinth.com/mod/create-metalwork)
 - [Create: Mob Spawners](https://modrinth.com/mod/create-mob-spawners), to capture the souls of mobs and shove them into a ~~prison~~ mechanical spawner
@@ -53,7 +53,7 @@ If your game crashes at launch with a Create-related error, it's probably relate
 
 ## Extreme Reactors
 
-The [Extreme Reactors page on Modrinth](https://modrinth.com/mod/extreme-reactors) implies the lack of information is intentional.
+The [Extreme Reactors page on CurseForge](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors) claims there's an in-game book.
 
 ## Immersive Engineering
 

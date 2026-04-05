@@ -1,5 +1,16 @@
 # Crafting &amp; Recipes
 
+## Polymorph
+
+We have the [Polymorph](https://modrinth.com/mod/polymorph) mod as a way to avoid recipe conflicts.
+
+It lets you choose which crafting result you want, if more than one is available.
+
+The modpack includes the following add-on mods for Polymorph:
+
+- [Polymorphic Energistics](https://www.curseforge.com/minecraft/mc-mods/polymorphic-energistics): Polymorph support for Applied Energistics 2
+- [Ars Polymorphia](https://modrinth.com/mod/ars-polymorphia): adds Polymorph support to Ars Nouveau's Storage Lecterns.
+
 ## Crafting Station
 
 _Advanced Colonies_ includes the [Crafting Station](https://modrinth.com/mod/crafting-station-jei-edition-updated), which:

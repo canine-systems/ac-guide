@@ -26,4 +26,5 @@
         - [Examples](magic/ars-nouveau/examples.md)
     - [Iron's Spells 'n Spellbooks](magic/irons-spells-n-spellbooks.md)
     - [Reliquary Reincarnations](magic/reliquary-reincarnations.md)
+- [Nature &amp; Such](nature.md)
 - [Food &amp; Farm](food-and-farm.md)
