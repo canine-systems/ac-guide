@@ -1,4 +1,4 @@
-# Death
+# Quality of Death
 
 ## Gravestone Mod
 
