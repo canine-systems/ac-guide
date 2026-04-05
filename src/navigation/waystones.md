@@ -8,4 +8,4 @@ at Aura (the spawn area).
 
 In addition to being craftable, they are also added to most(?) Villages.
 
-Waystones can be visible on your map, thanks to [Xaero's Maps x Waystones](https://modrinth.com/mod/xaeros-maps-x-waystones].
+Waystones can be visible on your map, thanks to [Xaero's Maps x Waystones](https://modrinth.com/mod/xaeros-maps-x-waystones).

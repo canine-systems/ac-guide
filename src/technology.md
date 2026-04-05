@@ -1,15 +1,6 @@
 # Technology
 
-For tech, our modpack is built around:
-
-- [Applied Energistics](#applied-energistics)
-- [ComputerCraft](#computercraft)
-- [Create](#create)
-- [Extreme Reactors](#extreme-reactors)
-- [Immersive Engineering](#immersive-engineering)
-- [Oritech](#oritech)
-- [Universal Sawmill](#universal-sawmill)
-
+For tech, our modpack is built around the mods listed on this page.
 
 We did our best to integrate them with each other as nicely as possible.
 
@@ -21,9 +12,12 @@ Details can be found in [the Applied Energistics 2 guide](https://appliedenergis
 
 ## ComputerCraft
 
-We technically use _CC: Tweaked_, which provides [online documentation](https://tweaked.cc/).
+We technically use [CC: Tweaked](https://modrinth.com/mod/cc-tweaked), which provides [online documentation](https://tweaked.cc/).
 
 ## Create
+
+We have the [Create](https://modrinth.com/mod/create) mod, and integrated it
+with as many other mods as possible.
 
 The [Create fandom wiki](https://create.fandom.com/wiki/Getting_started) has some information.
 
