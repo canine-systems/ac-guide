@@ -1,4 +1,4 @@
-# Modpack Updates (Automodpack)
+# Modpack Updates
 
 We handle client-side modpack updates via [Automodpack](https://modrinth.com/mod/automodpack).
 
