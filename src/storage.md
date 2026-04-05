@@ -1,11 +1,5 @@
 # Storage
 
-Our modpack provides the following storage-related mods:
-
-- [Ender Storage](#ender-storage)
-- [Sophisticated Backpacks](#sophisticated-backpacks)
-- [Sophisticated Storage](#sophisticated-storage)
-
 ## Ender Storage
 
 [Ender Storage](https://modrinth.com/mod/ender-storage) adds new chests that link together based on matching color patterns.

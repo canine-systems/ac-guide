@@ -1,11 +1,5 @@
 # Mobs &amp; How To Harass Them
 
-
-- [Giants](#giants)
-- [Goblin Traders](#goblin-traders)
-- [Mowzies Mobs](#mowzies-mobs)
-- [How To Harass Mobs](#how-to-harass-mobs)
-
 ## Giants
 
 Some zombies are giant, courtesy of [Giant Spawn](https://modrinth.com/mod/giant-spawn).
