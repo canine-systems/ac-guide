@@ -3,16 +3,25 @@
 For tech, our modpack is built around:
 
 - [Applied Energistics](#applied-energistics)
-- [Create](#create)
-- [Immersive Engineering](#immersive-engineering)
 - [ComputerCraft](#computercraft)
+- [Create](#create)
 - [Extreme Reactors](#extreme-reactors)
+- [Immersive Engineering](#immersive-engineering)
+- [Oritech](#oritech)
+- [Universal Sawmill](#universal-sawmill)
+
 
 We did our best to integrate them with each other as nicely as possible.
 
 ## Applied Energistics
 
-See [the Applied Energistics 2 guide](https://appliedenergistics.org/guides).
+This modpack has [Applied Energistics 2](https://modrinth.com/mod/ae2).
+
+Details can be found in [the Applied Energistics 2 guide](https://appliedenergistics.org/guides).
+
+## ComputerCraft
+
+We technically use _CC: Tweaked_, which provides [online documentation](https://tweaked.cc/).
 
 ## Create
 
@@ -22,40 +31,50 @@ The kudos14 YouTube channel has some good introduction videos:
 - [MINECRAFT CREATE MOD, FOR DUMMIES | lesson 1](https://www.youtube.com/watch?v=aYCi6Cn6qp0)
 - [MINECRAFT CREATE MOD, FOR DUMMIES | lesson 2](https://www.youtube.com/watch?v=fu4TbCOjKrI)
 
-We included [_Create Crafts & Additions_](https://modrinth.com/mod/createaddition) so Create can bridge between electricity and kinetic energy,.
-which lets you use Create to power other tech mods.
-
 There is integration between Create and the following mods:
-- Ender Storage
-- Farmer's Delight
-- Ars Nouveau
-- Sophisticated Backpacks
-- Iron's Spells & Spellbooks
+- [Create: Stock Bridge](https://modrinth.com/mod/create-stock-bridge): connect the Create Stock network to Applied Energistics 2.
+- [Create: Ender Storage](https://www.curseforge.com/minecraft/mc-mods/create-ender-storage): connect Chets and Tanks from _Ender Storage_ to Create contraptions.
+- [Create: Slice &amp; Dice](https://modrinth.com/mod/slice-and-dice): automate _Farmer's Delight_ recipes.
+- [Ars Creo](https://modrinth.com/mod/ars-creo): add items that integrate with _Ars Nouveau_.
+- [Create: Sophisticated Backpacks Compat](https://modrinth.com/mod/create-sophisticated-backpacks-compat): use Create machines to make _Sophisticated Backpacks_ items.
+- [Create: Wizardry](https://modrinth.com/mod/create-wizardry): automations for all inks and various essences from _Iron's Spells 'n Spellbooks_.
+- [Sophisticated Backpacks Create Integration](https://modrinth.com/mod/sophisticated-backpacks-create-integration): use Backpacks from Sophisticated Backpacks on Create contraptions.
+- [Sophisticated Storage Create Integration](https://modrinth.com/mod/sophisticated-storage-create-integration): use _Sophisticated Storage_ blocks on Create contraptions.
 
 We also added the folllowing Create-related mods:
-- _Create: Enchantment Industry_, for automating enchanting
-- _Create: Copycats+_
-- _Create: Escalated_, to add escalators
-- _Create: Hypertubes_, so you can pretend this is Satisfactory
-- _Create: Metalwork_
-- _Create: Mob Spawners_
-
+- [Create: Aquatic Ambitions](https://modrinth.com/mod/create-aquatic-ambitions)
+- [Create: Copycats+](https://modrinth.com/mod/copycats)
+- [Create: Crafts &amp; Additions](https://modrinth.com/mod/createaddition), to convert between kinetic (SU) energy and electric (RF/FE) energy.
+- [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry), for automating enchanting
+- [Create: Escalated](https://modrinth.com/mod/escalated), to add escalators
+- [Create: Hypertubes](https://modrinth.com/mod/hypertube), so you can pretend this is Satisfactory
+- [Create: Metalwork](https://modrinth.com/mod/create-metalwork)
+- [Create: Mob Spawners](https://modrinth.com/mod/create-mob-spawners), to capture the souls of mobs and shove them into a ~~prison~~ mechanical spawner
 
 These aesthetic/visual mods are also in the modpack:
-- Create Deco
-- Create Encased
+- [Create Deco](https://modrinth.com/mod/create-deco)
+- [Create Encased](https://modrinth.com/mod/create-encased)
 
-
-## Immersive Engineering
-
-Immersive Engineering provides its own in-game guide, called the _Engineer's Manual_.
-
-You can craft a book and a lever to make it.
-
-## ComputerCraft
-
-We technically use _CC: Tweaked_, which provides [online documentation](https://tweaked.cc/).
+If your game crashes at launch with a Create-related error, it's probably related to _Create Deco_. Just try launching again.
 
 ## Extreme Reactors
 
 The [Extreme Reactors page on Modrinth](https://modrinth.com/mod/extreme-reactors) implies the lack of information is intentional.
+
+## Immersive Engineering
+
+[Immersive Engineering](https://modrinth.com/mod/immersiveengineering) provides its own in-game guide, called the _Engineer's Manual_.
+
+You can craft a book and a lever to make it.
+
+## Oritech
+
+[Oritech](https://modrinth.com/mod/oritech) provides [documentation on the moddedmc wiki](https://moddedmc.wiki/en/project/oritech/latest/docs).
+
+## Universal Sawmill
+
+[Universal Sawmill](https://modrinth.com/mod/universal-sawmill) adds a sawmill crafting station to craft various any wooden items.
+
+In addition to working with any wood-derived block, the mod also adds:
+- Carpenter Villagers, and houses for them
+- villager trades

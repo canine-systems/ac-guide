@@ -25,37 +25,3 @@ There is also [a YouTube video](https://www.youtube.com/watch?v=RtXHjBzdpQ4) sho
 
 
 [modpack-download]: https://github.com/canine-systems/advanced-colonies/releases/latest/download/advanced-colonies.mrpack
-
-
-<details>
-<summary>list of mods that still need to be documented somewhere in this guide</summary>
-
-- Goblin Traders
-- Better Wandering Trader Trades (BWTT)
-- 
-- AutoModpack
-- 
-- Botany Pots
-- Botany Pots Tiers
-- Botany Trees
-- Bridging Mod
-- Comforts
-- Cosmetic Armor Reworked
-- 
-- Domum Ornamentum
-- Ender Storage
-- Explorer's Compass
-- Nature's Compass
-- Open Parties and Claims
-- Prodige's Skills
-- Relics
-- Relics: Artifacts Compat
-- Reliquary Reincarnations
-- Repeatable Trial Vaults
-- Simple Backups
-- Simply Tools
-- Sit Anywhere!
-- Sophisticated Backpacks
-- Sophisticated Storage
-
-</details>

@@ -2,7 +2,16 @@
 
 [Introduction](README.md)
 
+- [Modpack Updates](automodpack.md)
 - [Keybindings](keybindings.md)
+- [Quality of Life](quality-of-life.md)
+- [Notable UI &amp; Control Changes](ui-and-control-changes.md)
+- [Useful Tools](tools.md)
+- [Inventory](inventory.md)
+- [Storage](storage.md)
+- [EMI](emi.md)
+- [Death](death.md)
+- [Mobs &amp; How To Harass Them](mobs.md)
 - [Crafting &amp; Recipes](crafting-and-recipes.md)
 - [Navigation](navigation/README.md)
     - [Waystones](navigation/waystones.md)
