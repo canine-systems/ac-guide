@@ -2,7 +2,7 @@
 
 [Introduction](README.md)
 
-- [Modpack Updates](updates.md)
+- [Modpack Updates](updates/README.md)
 - [Keybindings](keybindings.md)
 - [Quality of Life](quality-of-life.md)
 - [Quality of Death](quality-of-death.md)
