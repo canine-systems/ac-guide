@@ -81,8 +81,10 @@ It includes the ability to take Minecraft screenshots, and share them with Disco
 However, the Essentials mod slightly conflicts with this by hiding the message confirming your screenshot was taken.
 You can fix this by going to the pause menu -> Settings (_not_ Options) -> Quality of Life and enable the "Screenshot message" setting.
 
-Here's a GIF showing how to do so:
+Here's a video showing how to do so:
 
-![](/updates/discord-integration-essentials-config.gif)
+<video autoplay loop muted controls>
+    <source src="/updates/discord-integration-essentials-config.webm" type="video/webm">
+</video>
 
 After making this change, if you press the F2 to take a screenshot, you can open the text chat and click "Share to chat" to share it with everyone.
