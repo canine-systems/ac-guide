@@ -41,7 +41,7 @@ Notable changes for the _Chat &amp; Create_ update:
 3. In-game information for Oritech has been added, via the [_Oracle Index_](https://modrinth.com/mod/oracle-index) mod.
 4. The [_Create: Steam 'n' Rails 1.21.1_](https://modrinth.com/mod/create-steam-n-rails-1.21.1) mod has been aded.
 5. The [_Create: Power Grid_](https://modrinth.com/mod/power-grid) mod has been added.
-6. The [mod providing the Crafting Statin](https://modrinth.com/mod/crafting-station-jei-edition-updated) was rewritten in early April.
+6. The [mod providing the Crafting Station](https://modrinth.com/mod/crafting-station-jei-edition-updated) was rewritten in early April.
 
 Less notable changes, which should only be noticeable by server ops:
 
