@@ -10,6 +10,26 @@ The downside is you'll need to restart Minecraft afterwards. The upside is that'
 
 ## Major Updates
 
+### 3.341: Crafting &amp; KubeJS
+
+This update went live on April 29, 2026 at 6:00am EDT.
+
+Notable changes for the _Crafting &amp; KubeJS_ update:
+
+1. In-game information for Oritech works, for real this time.
+2. Migrated from CraftTweaker to KubeJS.
+3. Fixed many recipes.
+4. Updated _MineColonies Compatibility_ to fix a conflict with _Farmer's Delight_.
+5. Added a _[Server Maintenance Mode](https://modrinth.com/mod/server-maintenance-mode)_ mod.
+
+#### Maintenance Mode
+
+In the future, when applying updates, we can enable _Server Maintenance Mode_.
+
+When _Maintenance Mode_ is enabled, anyone who is not on op will be prevented from joining the server.
+
+It _does not_ kick anyone already on the server, so they can wrap up at their own pace before the server is updated.
+
 ### 3.300: Chat &amp; Create
 
 This update went live on April 17, 2026 at 5:40pm EDT.
