@@ -3,7 +3,7 @@ provide a well-integrated variety of technology, magic, nature, and transportati
 
 **This guide is VERY MUCH a work in progress, it probably has mistakes!**
 
-- **Map:** [map.canine.systems](https://map.canine.systems/)
+<!-- - **Map:** [map.canine.systems](https://map.canine.systems/)-->
 - **Deathwatch:** [deaths.canine.systems](https://deaths.canine.systems/)
 
 ## Getting Started
@@ -20,8 +20,5 @@ If you don't haven't joined before, this is how to set it up:
 8. Launch Minecraft and connect again
 
 There is also [a YouTube video](https://www.youtube.com/watch?v=RtXHjBzdpQ4) showing steps 3 through 8.
-
-(Video is slightly outdated, I'll make a new one soon.)
-
 
 [modpack-download]: https://github.com/canine-systems/advanced-colonies/releases/latest/download/advanced-colonies.mrpack
