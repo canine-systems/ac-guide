@@ -10,6 +10,27 @@ The downside is you'll need to restart Minecraft afterwards. The upside is that'
 
 ## Major Updates
 
+### 3.365: Morphology
+
+This update went live on May 5, 2026 at 4:00am EDT.
+
+Notable changes for this update:
+
+- 2 mods were updated: _Create Deco_ and _Fruit's Delight_.
+- 2 mods were added: _[Akashic Tome](https://modrinth.com/mod/akashic-tome)_ and _[Morph-o-Tool](https://modrinth.com/mod/morph-o-tool)_.
+- 2 new recipes were added
+- Everyone can see everyone else's locations on their maps.
+- Copper wire is now provided by _Create: Power Grid_, instead of _Immersive Engineering_, for better compatibility.
+- Some monitoring functionality was added, to simplify managing the server.
+
+#### New Recipes
+
+Furnace recipes:
+- 1 cut copper => 1 copper block (to "decompress" them)
+
+Compacting recipes (mechanical press + basin):
+- 1 cobbled deepslate + 1 cobblestone + 100mb lava => 1 tuff
+
 ### 3.341: Crafting &amp; KubeJS
 
 This update went live on April 29, 2026 at 6:00am EDT.
