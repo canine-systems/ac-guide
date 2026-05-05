@@ -45,7 +45,3 @@ Fuel is produced using Immersive Engineering technology.
 - Transporters can use gasoline, diesel, and biodiesel
 
 It is worth noting that Transporters run more efficiently on diesel and biodiesel. (I think? This might be outdated.)
-
-## Roads
-
-If you have some places you want connected via road, let puppy know.
