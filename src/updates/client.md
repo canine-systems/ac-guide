@@ -18,9 +18,9 @@ The notable changes we've made are:
   - [light level overlay](https://modrinth.com/mod/llo)
   - [extreme sound muffler](https://modrinth.com/mod/extreme_sound_muffler)
 
-If you don't have the modpack installed yet, you can just [follow the Getting Started section of the Introduction](/).
+### How To Update
 
-Otherwise, this should update you to the latest version:
+This should update you to the latest version:
 
 1. [Drag this link to the main Prism Launcher window](https://github.com/canine-systems/advanced-colonies/releases/latest/download/advanced-colonies.mrpack).
 2. Click "OK"
