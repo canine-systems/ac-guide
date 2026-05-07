@@ -10,13 +10,17 @@ The downside is you'll need to restart Minecraft afterwards. The upside is that'
 
 ## Major Updates
 
-<!--
-### Client Build 33: Neoforge &amp; more Quality-of-Life mods
+### 3.367: NeoForge update &amp; more Quality-of-Life mods
 
-This client update went May 6, 2026 at 8:00pm EDT.
+Changes:
 
-You can find information on how to install it on the [client update page](/updates/client.html).
--->
+- NeoForge updated to 21.1.288
+- Added mods:
+  - [Better F3](https://modrinth.com/mod/betterf3)
+  - [Extreme Sound Muffler](https://modrinth.com/mod/extreme_sound_muffler)
+  - [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures)
+
+Due to the NeoForge version changing, if you installed additional client-side mods, you might need to disable or update them.
 
 ### 3.365: Morphology
 
