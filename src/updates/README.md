@@ -10,6 +10,12 @@ The downside is you'll need to restart Minecraft afterwards. The upside is that'
 
 ## Major Updates
 
+### Client Build 33: Neoforge &amp; more Quality-of-Life mods
+
+This client update went May 6, 2026 at 8:00pm EDT.
+
+You can find information on how to install it on the [client update page](/updates/client.html).
+
 ### 3.365: Morphology
 
 This update went live on May 5, 2026 at 4:00am EDT.

@@ -3,6 +3,7 @@
 [Introduction](README.md)
 
 - [Modpack Updates](updates/README.md)
+  - [Client Updates](updates/client.md)
 - [Keybindings](keybindings.md)
 - [Quality of Life](quality-of-life.md)
 - [Quality of Death](quality-of-death.md)
