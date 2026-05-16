@@ -22,3 +22,20 @@ If you don't haven't joined before, this is how to set it up:
 There is also [a YouTube video](https://www.youtube.com/watch?v=RtXHjBzdpQ4) showing steps 3 through 8.
 
 [modpack-download]: https://github.com/canine-systems/advanced-colonies/releases/latest/download/advanced-colonies.mrpack
+
+### Discord Integration
+
+There is now chat integration between Discord and Minecraft. This includes pictures and emoji going in both directions.
+
+It includes the ability to take Minecraft screenshots, and share them with Discord from in the game.
+
+However, the Essentials mod slightly conflicts with this by hiding the message confirming your screenshot was taken.
+You can fix this by going to the pause menu -> Settings (_not_ Options) -> Quality of Life and enable the "Screenshot message" setting.
+
+Here's a video showing how to do so:
+
+<video autoplay loop muted controls>
+    <source src="/updates/discord-integration-essentials-config.webm" type="video/webm">
+</video>
+
+After making this change, if you press the F2 to take a screenshot, you can open the text chat and click "Share to chat" to share it with everyone.
