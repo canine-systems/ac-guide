@@ -10,6 +10,29 @@ The downside is you'll need to restart Minecraft afterwards. The upside is that'
 
 ## Major Updates
 
+### 3.384: Cataclysm with Friends
+
+Changes:
+- Being able to view everyone on your maps works again.
+- Made the _saddle_ and _bundle_ show up in EMI
+- Fixed rice unification.
+- Added mods:
+  - [Cataclysm](https://modrinth.com/mod/l_enders-cataclysm)
+  - [Cataclysm Expeditions](https://modrinth.com/mod/cataclysm-expeditions)
+
+This update went live on June 1, 2026 at 11:40pm EDT.
+
+#### Cataclysm
+
+The _Cataclysm_ mod adds a bunch of difficult dungeons, boss fights, and items for handling them.
+
+We also added _Cataclysm Expeditions_, which lets you use a **Hub Anchor** to enter a dimension
+where you can choose any Cataclysm dungeons or bosses to tackle with an expedition of up to 4 people.
+
+This _does_ mean that things from _Cataclysm_ do not spawn in the world, but it's the least-intrusive way to add it to an existing modpack.
+
+The expedition size can be adjusted, but we avoided doing so for now. If you want the expedition size increased, please tell duckinator.
+
 ### 3.367: NeoForge update &amp; more Quality-of-Life mods
 
 Changes:
